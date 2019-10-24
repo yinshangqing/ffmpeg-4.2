@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{7990924F-6B42-47D7-9CAB-74A0D998134B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffplay", "ffplay\ffplay.vcxproj", "{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7990924F-6B42-47D7-9CAB-74A0D998134B}.Debug|x64.ActiveCfg = Debug|x64
+		{7990924F-6B42-47D7-9CAB-74A0D998134B}.Debug|x64.Build.0 = Debug|x64
+		{7990924F-6B42-47D7-9CAB-74A0D998134B}.Release|x64.ActiveCfg = Release|x64
+		{7990924F-6B42-47D7-9CAB-74A0D998134B}.Release|x64.Build.0 = Release|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Debug|x64.ActiveCfg = Debug|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Debug|x64.Build.0 = Debug|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Debug|x86.ActiveCfg = Debug|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Release|x64.ActiveCfg = Release|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Release|x64.Build.0 = Release|x64
+		{D4A7FC5D-940B-4442-9F2C-BCC9E6A4288B}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
